@@ -24,5 +24,5 @@
 
 ## Контакты
 - Email: kirichich@bk.ru
-- Telegram: @kirichich
+- Telegram: [@kirichich](https://t.me/kirichich)
 - [Резюме](https://hh.ru/resume/9bffa76aff0ddaa9270039ed1f53714742447a)
