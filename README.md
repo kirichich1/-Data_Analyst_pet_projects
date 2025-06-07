@@ -5,7 +5,7 @@
 ### **Анализ данных**
 - **Языки**: Python (Pandas, NumPy), SQL
 - **Визуализация**: Matplotlib, Seaborn
-- **Инструменты**: Google Colab, Jupyter Notebook, Excel
+- **Инструменты**: Google Colab, Jupyter Notebook
 
 ### **Области знаний**
 - Финансовая аналитика
