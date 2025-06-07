@@ -56,4 +56,4 @@
 
 ## Примеры визуализаций
 
-![Выживаемость детей по кассам](titanic_project/graphics/child_survival_gist.png)
+![Выживаемость детей по кассам](graphics/child_survival_gist.png)
