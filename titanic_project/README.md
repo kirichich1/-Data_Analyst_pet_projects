@@ -57,3 +57,5 @@
 ## Примеры визуализаций
 
 ![Выживаемость детей по кассам](graphics/child_survival_gist.png)
+![Выживаемость по классу и полу](graphics/survival_pclass_sex_gist.png)
+![Визуализация распределений основных атрибутов](graphics/dist_visualization.png)
